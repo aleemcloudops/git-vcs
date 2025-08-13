@@ -13,3 +13,4 @@ bash scripts/hello.sh
 - Branches: main (protected), dev (integration), feature/* (work)
 - PRs: feature -> dev, then dev -> main
 - Tags: v1.0.0 (annotated)
+**Expected output:** Hello, DevOps!
